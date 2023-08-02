@@ -1,4 +1,6 @@
-# Collaborative Writing on Software Engineering & Web Tech
+# Collaborative Writing With Friends
+
+![Collaborative Writing Banner](assets/collaborative-writing.png)
 
 This repository serves as our collaborative space for drafting, reviewing, and publishing articles.
 
@@ -12,29 +14,29 @@ This repository serves as our collaborative space for drafting, reviewing, and p
 
 ## Topics Covered
 
-* Modern Software Engineering
-* Web Frameworks, Libraries, & Technologies
-* AI Tools - ChatGPT, Midjourney, Claude, GitHub Copilot
-* Health & Fitness 
-* [more to come]
+- Modern Software Engineering
+- Web Frameworks, Libraries, & Technologies
+- AI Tools - ChatGPT, Midjourney, Claude, GitHub Copilot
+- Health & Fitness
+- [more to come]
 
 ## How to Contribute
 
-1. **Clone the Repository**: 
-    ```
-    git clone https://github.com/fromOkayToGreat/collaborative-writing.git
-    ```
+1. **Clone the Repository**:
+   ```
+   git clone https://github.com/fromOkayToGreat/collaborative-writing.git
+   ```
 2. **Create a New Branch**:
-    ```
-    git checkout -b [branch-name]
-    ```
+   ```
+   git checkout -b [branch-name]
+   ```
 3. **Make Your Changes**: Add or edit your article.
 4. **Commit and Push**:
-    ```
-    git add .
-    git commit -m "Your meaningful commit message"
-    git push origin [branch-name]
-    ```
+   ```
+   git add .
+   git commit -m "Your meaningful commit message"
+   git push origin [branch-name]
+   ```
 5. **Open a Pull Request**: Go to the repository and open a new pull request. Briefly describe your changes and mention someone for a review.
 
 ## Directory Structure
