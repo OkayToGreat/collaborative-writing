@@ -1,16 +1,16 @@
 # Improve Your Life With ChatGPT: A User-Friendly Guide
 
-Welcome to "Improve Your Life With ChatGPT". The objective for this course is for you to learn to improve your life, the lives of others, and become inspired by this emerging and fast-changing technology.
+Welcome to "Improve Your Life With ChatGPT". In this course, you'll discover how to harness the power of ChatGPT not only to enhance your own life but also to inspire and benefit others
 
-The audience for this course are non-technical adult individuals that have a basic understanding of computers and how to use the internet.
+This course is tailored for beginners, especially non-technical adults with a fundamental grasp of computers and basic internet skills.
 
-The course is broken down into 4 sections. Each section has a short video, and a short quiz.
+The course is broken down into 5 sections. Each section has a short video, and a short quiz.
 
-1. Introduction
-2. How To Use It
-3. Interactive Workshop
-4. Limitations, Ethics, & Next Steps
-5. Conclusion & Call to Action
+1. Introduction - What is ChatGPT? How does it work? & Getting Started.
+2. How To Use It - Prompts, Examples, & Context
+3. Interactive Workshop - Creative art, DIY, Journaling, Learning, Ideation
+4. Limitations, Ethics, & Future Updates - Math, Hallucinations, Jailbreaking, & More
+5. Conclusion & Call to Action - Tips, Resources, & Improve your life
 
 # Introduction
 
@@ -89,6 +89,8 @@ Let's try a prompt that asks ChatGPT for help by having ChatGPT ask questions. "
 Instead of asking it to do the task, we now instruct the ChatGPT to ask questions about the context. If we answer them, it must help it to do better completions.
 
 All three examples show you how context is important to ChatGPT. The more context you give it, the better it can respond to your request. But what if you want to do more than just ask ChatGPT for advice? What if you want to have a conversation with it?
+
+### Response Format or Style
 
 # Interactive Workshop
 
