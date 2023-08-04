@@ -84,7 +84,7 @@ As we can see, with more context, ChatGPT has more information about the situati
 
 Let's try a prompt that asks ChatGPT for help by having ChatGPT ask questions. "I want to improve my life by being more productive. Can you ask me questions about the context?"
 
-![I want to improve my life - ask me for context](..\assets\example3-askmecontext.png)
+![I want to improve my life - ask me for context](..\assets\example3-askmeforcontext.png)
 
 Instead of asking it to do the task, we now instruct the ChatGPT to ask questions about the context. If we answer them, it must help it to do better completions.
 
