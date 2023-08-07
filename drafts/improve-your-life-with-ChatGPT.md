@@ -54,7 +54,7 @@ At its core, ChatGPT is a prediction engine, crafting responses based on the myr
 
 To grasp ChatGPT's capabilities, we first need to define some foundational concepts:
 
-![Heirarchy of Artificial Intelligence, Machine Learning, Deep Learning, GPT](..\assets\improve-your-life-with-ChatGPT\AI-ML-DL-GPT.png)
+![Heirarchy of Artificial Intelligence, Machine Learning, Deep Learning, GPT](../assets/improve-your-life-with-ChatGPT/AI-ML-DL-GPT.png)
 
 ### AI
 
@@ -112,7 +112,7 @@ A prompt is the text you enter into the text box to start a conversation with Ch
 
 Let's begin with a simple prompt asking for life advice. "I want to improve my life"
 
-![I want to improve my life - simple prompt](..\assets\improve-your-life-with-ChatGPT\example1-simpleprompt.png)
+![I want to improve my life - simple prompt](../assets/improve-your-life-with-ChatGPT/example1-simpleprompt.png)
 
 As you can see in this response ChatGPT is a friendly assistant that gives general tips to improve your life. It's not perfect, but it's a good start. Let's try another prompt with a little more context.
 
@@ -120,7 +120,7 @@ As you can see in this response ChatGPT is a friendly assistant that gives gener
 
 Let's try a prompt that gives ChatGPT more context. "I want to improve my life by being more productive"
 
-![I want to improve my life - more context](..\assets\improve-your-life-with-ChatGPT\example2-morecontext.png)
+![I want to improve my life - more context](../assets/improve-your-life-with-ChatGPT/example2-morecontext.png)
 
 As we can see, with more context, ChatGPT has more information about the situation, allowing it to respond more specifically to our request. Sometimes we are not sure exactly what we want to ask ChatGPT. In these cases, we can ask ChatGPT to help us.
 
@@ -128,7 +128,7 @@ As we can see, with more context, ChatGPT has more information about the situati
 
 Let's try a prompt that asks ChatGPT for help by having ChatGPT ask questions. "I want to improve my life by being more productive. Can you ask me questions about the context?"
 
-![I want to improve my life - ask me for context](..\assets\improve-your-life-with-ChatGPT\example3-askmeforcontext.png)
+![I want to improve my life - ask me for context](../assets/improve-your-life-with-ChatGPT/example3-askmeforcontext.png)
 
 Instead of asking it to do the task, we now instruct the ChatGPT to ask questions about the context. If we answer them, it must help it to do better completions.
 
@@ -183,7 +183,7 @@ One-shot or Few-shot learning is a technique wherein you provide one or more exa
 
 For instance, in this one-shot example, we want ChatGPT to give us a name that matches a color we provide.
 
-![one-shot learning](..\assets\improve-your-life-with-ChatGPT\one-shot-learning.png)
+![one-shot learning](../assets/improve-your-life-with-ChatGPT/one-shot-learning.png)
 
 In this scenario, ChatGPT learned that we want names that match a color given. One-shot helps tailor the response to our needs. My blue cat now has a name. Azure!
 
