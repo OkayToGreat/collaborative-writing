@@ -1,6 +1,6 @@
 # Improve Your Life With ChatGPT: A User-Friendly Guide
 
-Welcome to "Improve Your Life With ChatGPT". In this course, you'll discover how to harness the power of ChatGPT not only to enhance your own life but also to inspire and benefit others
+Welcome to "Improve Your Life With ChatGPT". In this course, you'll discover how to harness the power of ChatGPT not only to enhance your own life but also to inspire and benefit others.
 
 This course is tailored for beginners, especially non-technical adults with a fundamental grasp of computers and basic internet skills.
 
@@ -8,13 +8,18 @@ The course is broken down into 5 sections.
 
 <!-- Each section has a short video and a short quiz. *Future update* -->
 
-## Table of Contents
+# Table of Contents
 
-1. [Introduction](#introduction) - What is ChatGPT? How does it work? & Getting Started.
-2. [How To Use ChatGPT](#how-to-use-chatgpt) - Prompts, Examples, & Context
-3. [Interactive Workshop](#interactive-workshop) - Creative art, DIY, Journaling, Learning, Ideation
-4. [Limitations, Ethics, & Future Updates](#limitations-ethics--future-updates) - Math, Hallucinations, Jailbreaking, & More
-5. [Conclusion & Call to Action](#conclusion--call-to-action) - Tips, Resources, & Improve your life
+1. [Introduction](#introduction)
+   - What is ChatGPT, What does it do, & Getting Started.
+2. [How To Use ChatGPT](#how-to-use-chatgpt)
+   - Prompts, Context, Advance Prompting, Formats & Styles
+3. [Interactive Workshop](#interactive-workshop)
+   - Creative art, DIY, Journaling, Learning, Ideation
+4. [Limitations, Ethics, & Future Updates](#limitations-ethics--future-updates)
+   - Hallucinations, Privacy, Usage Policy, Bias & Discrimination, Jobs & Economy, ChatGPT Evolves
+5. [Conclusion & Call to Action](#conclusion--call-to-action)
+   - Tips, Resources, Improve your life & other people's lives
 
 ## Before We Begin
 
@@ -28,33 +33,27 @@ Imagine arranging a dinner date with a friend. You send a quick text, and they p
 
 In an age where digital communication feels almost as natural as face-to-face conversation, we are continually seeking ways to make our interactions with technology more intuitive and efficient.
 
+## What is ChatGPT?
+
 ChatGPT is a step towards humans communicating with computers as they would with other humans. So, how does it achieve this?
 
-You could technically 'speak' to ChatGPT. However, for it to work, your spoken words must be transformed into text. That's because ChatGPT is an AI chat application built on an advanced AI model known as the "Generative Pre-trained Transformer" or GPT. ChatGPT is a shining example of Large Language Models (LLMs). These LLMs undergo training on vast troves of text data, ranging from books to internet content, including extensive resources like Wikipedia. This immense data training enables them to identify and understand the intricate patterns within human language. Specifically, it thrives in the realm of NLP (Natural Language Processing), aiming to grasp and reproduce the intricacies of human language.
+You could technically 'speak' to ChatGPT. However, for it to work, your spoken words must be transformed into text. That's because ChatGPT is an AI chat application built on an advanced AI model known as the "Generative Pre-trained Transformer" or GPT. ChatGPT is a shining example of Large Language Models (LLMs). These LLMs undergo training on vast troves of text data, ranging from books to internet content, including extensive resources like Wikipedia. This immense data training enables them to identify and understand the intricate patterns within human language. Specifically, it thrives in the realm of NLP (Natural Language Processing), aiming to grasp and reproduce the intricacies of natural human language.
 
 NLP encompasses a broad range of tasks:
 
-### Text Classification
+**Text Classification** - Categorizing input text into predefined groups such as sentiment analysis and topic categorization.
 
-Categorizing input text into predefined groups such as sentiment analysis and topic categorization.
+**Automatic Translation** - Translating text from one language to another without human intervention.
 
-### Automatic Translation
+**Question Answering** - Providing answers based on a given text.
 
-Translating text from one language to another without human intervention.
-
-### Question Answering
-
-Providing answers based on a given text.
-
-### Text Generation
-
-Generating coherent and relevant output text from a given input, known as a prompt.
+**Text Generation** - Generating coherent and relevant output text from a given input, known as a prompt.
 
 At its core, ChatGPT is a prediction engine, crafting responses based on the myriad patterns it has observed in its vast training data.
 
 To grasp ChatGPT's capabilities, we first need to define some foundational concepts:
 
-![Heirarchy of Artificial Intelligence, Machine Learning, Deep Learning, GPT](../assets/improve-your-life-with-ChatGPT/AI-ML-DL-GPT.png)
+![Hierarchy of Artificial Intelligence, Machine Learning, Deep Learning, GPT](../assets/improve-your-life-with-ChatGPT/AI-ML-DL-GPT.png)
 
 ### AI
 
@@ -164,6 +163,7 @@ Here are some formats or styles you can use to get different types of responses 
 - Analogies or metaphors
 - Analysis or commentary
 - Quiz or Multiple Choice
+- Interview or Q&A
 - Chronological or timeline
 - Pros and Cons
 - Recommendations or suggestions
