@@ -55,7 +55,7 @@ To grasp ChatGPT's capabilities, we first need to define some foundational conce
 
 ![Hierarchy of Artificial Intelligence, Machine Learning, Deep Learning, GPT](../assets/improve-your-life-with-ChatGPT/AI-ML-DL-GPT.png)
 
-### AI
+### Artificial Intelligence (AI)
 
 Any technique that enables computers to mimic human behavior.
 
@@ -77,7 +77,7 @@ Now that you have an overview of what ChatGPT is, let's explore how to get start
 
 ## Getting Started
 
-You can access ChatGPT for free at chat.openai.com.
+You can access ChatGPT for free at [chat.openai.com](https://chat.openai.com/).
 
 - An account is required.
 - Usage is throttled.
@@ -93,15 +93,15 @@ For enhanced features, ChatGPT Plus is available at $20/month:
 
 ### ChatGPT Versions
 
-ChatGPT-4 is OpenAI’s most advanced system, producing safer and more useful responses. It can solve difficult problems with greater accuracy, thanks to its broader general knowledge and problem-solving abilities. Exclusively only available to ChatGPT Plus users.
+**ChatGPT-4** - is OpenAI’s most advanced system, producing safer and more useful responses. It can solve difficult problems with greater accuracy, thanks to its broader general knowledge and problem-solving abilities. Exclusively only available to ChatGPT Plus users.
 
-ChatGPT-3.5 is a chatbot that was launched by OpenAI and is built on top of the GPT-3.5 family of large language models and is fine-tuned with supervised and reinforcement learning techniques. It can answer everyday questions, admit wrong replies, and reject inappropriate requests. Available to all users.
+**ChatGPT-3.5** - is a chatbot that was launched by OpenAI and is built on top of the GPT-3.5 family of large language models and is fine-tuned with supervised and reinforcement learning techniques. It can answer everyday questions, admit wrong replies, and reject inappropriate requests. Available to all users.
 
 # How To Use ChatGPT
 
 At its core, ChatGPT is designed to be a user-friendly assistant. For general use, you simply engage in a conversation with it, much like texting a friend. You can ask a question or present a topic and it will respond.
 
-> "Never include personal, business, or customer data in your conversations with ChatGPT."
+> "Never include sensitive personal, business, or customer data in your conversations with ChatGPT."
 
 ## Let's get started with a prompt!
 
