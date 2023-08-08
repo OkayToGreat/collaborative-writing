@@ -35,7 +35,7 @@ In an age where digital communication feels almost as natural as face-to-face co
 
 ## What is ChatGPT?
 
-ChatGPT is a step towards humans communicating with computers as they would with other humans. So, how does it achieve this?
+ChatGPT is a step towards humans communicating with computers as they would with other humans. ChatGPT is a chat application designed with Artificial Intelligence (AI) for generating human-like text based on given prompts. It's a user-friendly assistant that can help you with a variety of tasks, from answering questions, assisting with writing, tutoring in various subjects, brainstorming, and more.
 
 You could technically 'speak' to ChatGPT. However, for it to work, your spoken words must be transformed into text. That's because ChatGPT is an AI chat application built on an advanced AI model known as the "Generative Pre-trained Transformer" or GPT. ChatGPT is a shining example of Large Language Models (LLMs). These LLMs undergo training on vast troves of text data, ranging from books to internet content, including extensive resources like Wikipedia. This immense data training enables them to identify and understand the intricate patterns within human language. Specifically, it thrives in the realm of NLP (Natural Language Processing), aiming to grasp and reproduce the intricacies of natural human language.
 
@@ -61,17 +61,15 @@ Any technique that enables computers to mimic human behavior.
 
 ### Machine Learning (ML)
 
-A subset of Artificial Intelligence that focuses on developing algorithms and statistical
-models to enable computers to learn from and make predictions or decisions based
-on data without explicit programming.
+A branch of Artificial Intelligence where computers learn from data. Instead of being explicitly programmed to perform a task, they use algorithms and statistical models to predict or decide based on the data they're given.
 
 ### Deep Learning (DL)
 
-A subset of Machine Learning that uses neural networks to learn from and make predictions or decisions based on data without explicit programming.
+A specialized area within Machine Learning that uses neural networks, inspired by the human brain, to process and interpret complex data. These networks can automatically learn and improve from experience, making them particularly effective for tasks like image and speech recognition.
 
 ### Neural Networks (NN)
 
-A neural network is a computer program inspired by the way our brain works. It learns from data, much like how we learn from experience. Given enough data and training, it can make predictions or recognize patterns.
+Inspired by the structure and function of the human brain, a neural network is a computational model designed to process information. It learns and identifies patterns from data, enabling it to make predictions or decisions after sufficient training.
 
 Now that you have an overview of what ChatGPT is, let's explore how to get started with it.
 
@@ -105,6 +103,8 @@ At its core, ChatGPT is designed to be a user-friendly assistant. For general us
 
 ## Let's get started with a prompt!
 
+> ChatGPT-3.5 will be used throughout the whole course.
+
 A prompt is the text you enter into the text box to start a conversation with ChatGPT. Writing a good prompt helps us get the most out of AI tools like ChatGPT. Prompting is a way to give these AI models direction so it can understand our task and then help us complete it. But to get the best results, you need to know how to craft a good prompt. And most people who struggle with prompting are making the same mistake. They're being too generic and expecting that AI is just going to read our minds.
 
 ### Example 1 - Simple Prompt
@@ -129,11 +129,11 @@ Let's try a prompt that asks ChatGPT for help by having ChatGPT ask questions. "
 
 ![I want to improve my life - ask me for context](../assets/improve-your-life-with-ChatGPT/example3-askmeforcontext.png)
 
-Instead of asking it to do the task, we now instruct the ChatGPT to ask questions about the context. If we answer them, it must help it to do better completions.
+As seen in the response, even ChatGPT recognizes that asking questions about your current context can help it understand and provide more personalized advice. Instead of asking it to do the task, we now instruct ChatGPT to ask questions about the context.
 
 ## Advanced Prompting
 
-All three examples show you how context is important to ChatGPT. The more context you give it, the better it can respond to your request. Those are sure to get you started, but let's look at some more advanced prompting techniques. These techniques will transform your ChatGPT experience.
+All three examples demonstrate why context is important. The more context you give it, the better it can respond to your request. Those are sure to get you started, but let's look at some more advanced prompting techniques. These techniques will transform your ChatGPT experience.
 
 ### Prompt Length & Asking for Multiple Things
 
