@@ -11,7 +11,7 @@ The course is broken down into 5 sections.
 # Table of Contents
 
 1. [Introduction](#introduction)
-   - What is ChatGPT, What does it do, & Getting Started.
+   - What is ChatGPT, What does it do, Getting Started, User Interface.
 2. [How To Use ChatGPT](#how-to-use-chatgpt)
    - Prompts, Context, Advance Prompting, Formats & Styles
 3. [Interactive Workshop](#interactive-workshop)
@@ -103,17 +103,27 @@ At its core, ChatGPT is designed to be a user-friendly assistant. For general us
 
 ## ChatGPT User Interface
 
-![ChatGPT User Interface with no history](<ChatGPT Crash Course-1.png>)
+The user interface for ChatGPT generally involves a text-based interaction, much like a messaging app.
 
-The user interface for ChatGPT generally involves a text-based interaction, much like a messaging app. The interface is divided into two sections: the text box and the conversation history.
+The interface is divided into two sections: the text box and the conversation history.
 
 ### Text Box
 
-The text box is where you enter your prompt. A prompt is the text you enter into the text box to start a conversation with ChatGPT. Writing a good prompt helps us get the most out of AI tools like ChatGPT. Prompting is a way to give these AI models direction so it can understand our task and then help us complete it. But to get the best results, you need to know how to craft a good prompt. And most people who struggle with prompting are making the same mistake. They're being too generic and expecting that AI is just going to read our minds.
+The text box is where you enter your prompt so a convesation can begin. You can edit your prompt at any time by clicking on the text box and typing in a new prompt. You are also able to like or dislike a response by clicking on the thumbs up or thumbs down icon next to the response. This will help ChatGPT learn what you like and dislike so it can provide better responses in the future. There is a copy icon next to the thumbs up and thumbs down icons that will copy the response to your clipboard. The regenarate icon will generate a new response that is different from the previous response.
 
 ### Conversation History
 
 The conversation history is where you can see the conversation between you and ChatGPT. It's a great way to keep track of what you've said and what ChatGPT has said. You can also use it to review your conversation and make sure you're getting the best results.
+
+There ? icon on the bottom right of the conversation history that will open a help menu. The help menu will provide you with information about ChatGPT and keyboard shortcuts to maximize your efficiency.
+
+![ChatGPT UI Two Sections](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-two-sections.png)
+
+Below are two examples of the ChatGPT user interface highlighting important sections of the interface and how they are used. One with no message history and one with message history and prompt.
+
+![ChatGPT User Interface Guide with no history](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-with-no-chat-history.png)
+
+![ChatGPT User Interface Guide with message history and prompt](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-with-chat-history.png)
 
 ## Let's get started with a prompt!
 
@@ -224,6 +234,8 @@ ChatGPT by default is not supposed to have deterministic responses. This means t
 
 What is AI hallucination? It is when the AI thinks something is right, but it is wrong. This can be dangerous for users who rely on ChatGPT. You have to double-check and keep a critical eye on the response.
 
+> If you find an answer is unrelated, please provide that feedback by using the "Thumbs Down" button
+
 ### ChatGPT & Math
 
 ChatGPT has no mathematical capabilities, but it can give a close estimation with a language approach only. That's because its training data included a lot of math text. If you plan to use ChatGPT for math problems, include "Let's think step by step" in your prompt. This allows it to provide itself context and give you a more accurate response.
@@ -235,6 +247,10 @@ ChatGPT is not designed to handle sensitive information and your conversation is
 ### Usage Policy
 
 [https://openai.com/policies/usage-policies](https://openai.com/policies/usage-policies)
+
+### Commercial Use
+
+Subject to the [Content Policy](https://labs.openai.com/policies/content-policy) and [Terms](https://openai.com/api/policies/terms/), you own the output you create with ChatGPT, including the right to reprint, sell, and merchandise – regardless of whether output was generated through a free or paid plan.
 
 ### Bias and Discrimination
 
