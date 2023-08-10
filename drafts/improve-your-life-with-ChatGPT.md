@@ -101,6 +101,20 @@ At its core, ChatGPT is designed to be a user-friendly assistant. For general us
 
 > "Never include sensitive personal, business, or customer data in your conversations with ChatGPT."
 
+## ChatGPT User Interface
+
+![ChatGPT User Interface with no history](<ChatGPT Crash Course-1.png>)
+
+The user interface for ChatGPT generally involves a text-based interaction, much like a messaging app. The interface is divided into two sections: the text box and the conversation history.
+
+### Text Box
+
+The text box is where you enter your prompt. A prompt is the text you enter into the text box to start a conversation with ChatGPT. Writing a good prompt helps us get the most out of AI tools like ChatGPT. Prompting is a way to give these AI models direction so it can understand our task and then help us complete it. But to get the best results, you need to know how to craft a good prompt. And most people who struggle with prompting are making the same mistake. They're being too generic and expecting that AI is just going to read our minds.
+
+### Conversation History
+
+The conversation history is where you can see the conversation between you and ChatGPT. It's a great way to keep track of what you've said and what ChatGPT has said. You can also use it to review your conversation and make sure you're getting the best results.
+
 ## Let's get started with a prompt!
 
 > ChatGPT-3.5 will be used throughout the whole course.
