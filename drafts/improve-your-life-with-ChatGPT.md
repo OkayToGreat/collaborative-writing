@@ -107,23 +107,34 @@ The user interface for ChatGPT generally involves a text-based interaction, much
 
 The interface is divided into two sections: the text box and the conversation history.
 
+![ChatGPT UI Two Sections](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-two-sections.png)
+
 ### Text Box
 
-The text box is where you enter your prompt so a convesation can begin. You can edit your prompt at any time by clicking on the text box and typing in a new prompt. You are also able to like or dislike a response by clicking on the thumbs up or thumbs down icon next to the response. This will help ChatGPT learn what you like and dislike so it can provide better responses in the future. There is a copy icon next to the thumbs up and thumbs down icons that will copy the response to your clipboard. The regenarate icon will generate a new response that is different from the previous response.
+The text box is where you enter your prompt so a conversation can begin.
+
+- You can edit your prompt at any time by clicking on the text box and typing in a new prompt.
+- You are also able to like or dislike a response by clicking on the thumbs up or thumbs down icon next to the response. This will help ChatGPT learn what you like and dislike so it can provide better responses in the future.
+- There is a copy icon next to the thumbs up and thumbs down icons that will copy the response to your clipboard.
+- The regenarate icon will generate a new response that is different from the previous response.
 
 ### Conversation History
 
 The conversation history is where you can see the conversation between you and ChatGPT. It's a great way to keep track of what you've said and what ChatGPT has said. You can also use it to review your conversation and make sure you're getting the best results.
 
-There ? icon on the bottom right of the conversation history that will open a help menu. The help menu will provide you with information about ChatGPT and keyboard shortcuts to maximize your efficiency.
+- The ? icon on the bottom right of the conversation history that will open a help menu. The help menu will provide you with information about ChatGPT and keyboard shortcuts to maximize your efficiency.
 
-![ChatGPT UI Two Sections](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-two-sections.png)
-
-Below are two examples of the ChatGPT user interface highlighting important sections of the interface and how they are used. One with no message history and one with message history and prompt.
+Below are two examples of the ChatGPT user interface highlighting important sections of the interface and how they are used.
 
 ![ChatGPT User Interface Guide with no history](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-with-no-chat-history.png)
 
 ![ChatGPT User Interface Guide with message history and prompt](../assets/improve-your-life-with-ChatGPT/chatgpt-ui-guide-with-chat-history.png)
+
+### Keyboard Shortcuts
+
+ChatGPT has a few keyboard shortcuts that can help you maximize your efficiency.
+
+![ChatGPT Keyboard Shorcuts](../assets/improve-your-life-with-ChatGPT/chatgpt-keyboard-shortcuts.png)
 
 ## Let's get started with a prompt!
 
