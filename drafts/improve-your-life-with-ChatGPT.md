@@ -4,9 +4,7 @@ Welcome to "Improve Your Life With ChatGPT". In this course, you'll discover how
 
 This course is tailored for beginners, especially non-technical adults with a fundamental grasp of computers and basic internet skills.
 
-The course is broken down into 5 sections.
-
-<!-- Each section has a short video and a short quiz. *Future update* -->
+The course is broken down into 5 sections. Each section has a short video and a short quiz.
 
 # Table of Contents
 
@@ -27,7 +25,7 @@ The course is broken down into 5 sections.
 
 - For on-the-go access to ChatGPT, consider downloading the app for iOS or Android.
 
-# Introduction
+# 1. Introduction
 
 Imagine arranging a dinner date with a friend. You send a quick text, and they promptly reply with a proposed time. A few exchanged emojis later, your evening plans are set.
 
@@ -95,7 +93,67 @@ For enhanced features, ChatGPT Plus is available at $20/month:
 
 **ChatGPT-3.5** - is a chatbot that was launched by OpenAI and is built on top of the GPT-3.5 family of large language models and is fine-tuned with supervised and reinforcement learning techniques. It can answer everyday questions, admit wrong replies, and reject inappropriate requests. Available to all users.
 
-# How To Use ChatGPT
+### Quiz 1 - Introduction to ChatGPT
+
+1. What is ChatGPT primarily designed for?
+
+- A) Cooking recipes
+- B) Human-like text generation
+- C) Gaming
+- D) Weather prediction
+
+2. Which term is used to describe a computational model designed to process information and learn patterns from data, inspired by the human brain?
+
+- A) Machine Learning
+- B) Natural Language Processing
+- C) Neural Network
+- D) Artificial Intelligence
+
+3. Deep Learning is a specialized area within:
+
+- A) Neural Networks
+- B) ChatGPT
+- C) Machine Learning
+- D) Text Generation
+
+4. True or False: ChatGPT can translate spoken words directly without transforming them into text.
+
+5. What does NLP encompass? (Choose all that apply)
+
+- A) Text Classification
+- B) Automatic Translation
+- C) Image Recognition
+- D) Question Answering
+- E) Text Generation
+
+6. Which of the following are features of ChatGPT Plus?
+
+- A) Free access
+- B) Priority access
+- C) Lower usage limits
+- D) Public conversations only
+
+7. What is Artificial Intelligence (AI)?
+
+- A) A specialized area within Machine Learning
+- B) Any technique that enables computers to mimic human behavior
+- C) The process of translating text from one language to another
+- D) A specific version of ChatGPT
+
+8. True or False: ChatGPT-4 is available to all users, including those without a subscription.
+
+### Answers
+
+1. B
+2. C
+3. C
+4. False
+5. A, B, D, E
+6. B
+7. B
+8. False
+
+# 2. How To Use ChatGPT
 
 At its core, ChatGPT is designed to be a user-friendly assistant. For general use, you simply engage in a conversation with it, much like texting a friend. You can ask a question or present a topic and it will respond.
 
@@ -132,7 +190,7 @@ Below are two examples of the ChatGPT user interface highlighting important sect
 
 ### Keyboard Shortcuts
 
-ChatGPT has a few keyboard shortcuts that can help you maximize your efficiency.
+ChatGPT has a few keyboard shortcuts. If you begin using them early, they will become second nature and you'll be able to use ChatGPT more efficiently.
 
 ![ChatGPT Keyboard Shorcuts](../assets/improve-your-life-with-ChatGPT/chatgpt-keyboard-shortcuts.png)
 
@@ -231,11 +289,11 @@ In this scenario, ChatGPT learned that we want names that match a color given. O
 
 In conclusion, Few-shot prompting with ChatGPT is a potent tool, especially when seeking more refined, structured, or specialized responses. Whether you use one example or a few, you're helping it understand you better. And that makes your chat even more fun and helpful!
 
-# Interactive Workshop
+# 3. Interactive Workshop
 
 WIP
 
-# Limitations, Ethics, & Future Updates
+# 4. Limitations, Ethics, & Future Updates
 
 ### An important sidenote about responses
 
@@ -275,10 +333,6 @@ WIP
 
 OpenAI the company behind this successful application is constantly improving their model. Their goal is to align AI with human interests. When it was newly released, many people found ways to "jailbreak" it. This means they found ways to make it do things it was not designed to do. For example, malicious users were able to make it generate racist, sexist, and other offensive text. OpenAI has since improved the model to prevent this from happening and it will continue in the future.
 
-# Conclusion & Call to Action
-
-ChatGPT is not a replacement for search engines like Google or Bing. It's quite different, because this, in a sense, it's fresh text. The text generated is likely new to the world. I encourage you to go ahead and test the limits of ChatGPT. It's a great way to explore what it's capable of.
-
 ### Tips
 
 - Quality in, quality out. Prompt with rich, detailed instructions, and you'll be rewarded with a great response.
@@ -298,4 +352,10 @@ WIP
 
 ## Improve other people's lives
 
-WIP
+# 5. Conclusion
+
+ChatGPT is not a replacement for search engines like Google or Bing. It's quite different, because this, in a sense, it's fresh text. The text generated is likely new to the world. I encourage you to go ahead and test the limits of ChatGPT. It's a great way to explore what it's capable of.
+
+# Call to Action
+
+ChatGPT is like having an augment in life. It's more than just a tool; it's an opportunity to grow, innovate, and connect in ways previously unimagined. From aiding in personal development to fostering community projects, the possibilities are boundless. This technology doesn't just follow commands; it engages with you, offering thoughtful responses, fresh perspectives, and endless inspiration.
