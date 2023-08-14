@@ -289,6 +289,67 @@ In this scenario, ChatGPT learned that we want names that match a color given. O
 
 In conclusion, Few-shot prompting with ChatGPT is a potent tool, especially when seeking more refined, structured, or specialized responses. Whether you use one example or a few, you're helping it understand you better. And that makes your chat even more fun and helpful!
 
+### Quiz 2 - How to Use ChatGPT
+
+1. **What is one of the warnings given about using ChatGPT?**
+
+- A) Always include sensitive data
+- B) Use only on mobile devices
+- C) Never include sensitive personal, business, or customer data
+- D) Always use a dark theme
+
+2. **What is the maximum context length for GPT-4 as of July 2023?**
+
+- A) 3,000 English words
+- B) 4,000 English words
+- C) 8,000 English words
+- D) 6,000 English words
+
+3. **What is one advantage of Few-shot learning?**
+
+- A) Extends the memory of ChatGPT
+- B) Tailored Responses
+- C) Increases the cost of usage
+- D) Simplifies complex coding tasks
+
+4. **What is a recommendation when crafting a good prompt with ChatGPT?**
+
+- A) Ask for 4 or 5 things at once
+- B) Use only complex sentences
+- C) Avoid context and be as generic as possible
+- D) Provide context to get the best results
+
+5. **Which of the following formats or styles can you request from ChatGPT?**
+
+- A) Direct answer
+- B) Poetry
+- C) Code or script
+- D) All of the above
+
+6. **What is the keyboard shortcut to show all shortcuts?**
+
+- A) Ctrl + /
+- B) Ctrl + ?
+- C) Ctrl + Shift + ?
+- D) Ctrl + Shift + S
+
+7. **What is the function of the thumbs up/thumbs down icons next to a response in ChatGPT?**
+
+- A) To report errors in the response
+- B) To save the response for later
+- C) To help ChatGPT learn what you like and dislike so it can provide better responses
+- D) To translate the response to a different language
+
+### Answers
+
+1. C
+2. D
+3. B
+4. D
+5. D
+6. A
+7. C
+
 # 3. Interactive Workshop
 
 WIP
