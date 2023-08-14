@@ -354,17 +354,18 @@ In conclusion, Few-shot prompting with ChatGPT is a potent tool, especially when
 
 WIP
 
-# 4. Limitations, Ethics, & Future Updates
+# 4. Limitations, Ethics, Economy & Future Updates
 
 ### An important sidenote about responses
 
-ChatGPT by default is not supposed to have deterministic responses. This means that asking the same question twice will likely not result in the same response. This is because ChatGPT is a statistical model. Its responses are "limited" by the data it was trained on, which stopped in September 2021. You can "Trust, but verify" the responses.
+ChatGPT doesn't always give the same answer to the same question. It's based on statistics, so its answers might vary. Remember, it's using information up to September 2021, so it's good to double-check the answers.
+You can "Trust, but verify" the responses.
 
 ### Beware of AI Hallucinations
 
 What is AI hallucination? It is when the AI thinks something is right, but it is wrong. This can be dangerous for users who rely on ChatGPT. You have to double-check and keep a critical eye on the response.
 
-> If you find an answer is unrelated, please provide that feedback by using the "Thumbs Down" button
+> If you find an answer is unrelated, please provide that feedback by using the "Thumbs Down" button.
 
 ### ChatGPT & Math
 
@@ -384,15 +385,85 @@ Subject to the [Content Policy](https://labs.openai.com/policies/content-policy)
 
 ### Bias and Discrimination
 
-WIP
+ChatGPT is not inherently biased, but the data it was trained on may contain biases that could be reflected in its responses. For example, ChatGPT has produced outputs that are nonsensical, factually incorrect, or even sexist, racist, or otherwise offensive. Careful research is always in order. One should never rely solely on ChatGPT when making important decisions. You can try asking for counterfactual examples to better understand a situation or answer.
 
-### Jobs and the Economy
+### AI Economy
 
-WIP
+- The global artificial intelligence (AI) market was worth $454.12 billion in 2022 and is expected to reach $2,575.16 billion by 2032.
+- Some predict that AI could contribute up to $15.7 trillion to the global economy in 2030. This is more than the current output of China and India combined.
+- Others predict that AI could increase global GDP by 14% in 2030.
+- The AI market is growing and predicted to be worth trillions. It could boost the global economy but also disrupt jobs and society. It's exciting but complex, and the actual impact is still uncertain.
 
-### ChatGPT Evolves
+[PwC’s Global Artificial Intelligence Study: Exploiting the AI Revolution](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html#:~:text=AI%20could%20contribute%20up%20to%20$15.7%20trillion1,current%20output%20of%20China%20and%20India%20combined.)
 
-OpenAI the company behind this successful application is constantly improving their model. Their goal is to align AI with human interests. When it was newly released, many people found ways to "jailbreak" it. This means they found ways to make it do things it was not designed to do. For example, malicious users were able to make it generate racist, sexist, and other offensive text. OpenAI has since improved the model to prevent this from happening and it will continue in the future.
+[Economic impacts of artificial intelligence (AI)](<https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637967/EPRS_BRI(2019)637967_EN.pdf#:~:text=AI%20is%20seen%20by%20many%20as%20an%20engine%20of%20productivity%20and%20economic%20growth.&text=However%2C%20AI%20may%20also%20have%20a%20highly%20disruptive%20effect%20on%20the%20economy%20and%20society.>)
+
+[The impact of artificial intelligence on growth and employment](<https://cepr.org/voxeu/columns/impact-artificial-intelligence-growth-and-employment#:~:text=The%20McKinsey%20Global%20Institute%20predicts,in%202030%20(PwC%202017).>)
+
+[Artificial intelligence (AI) market size worldwide in 2021 with a forecast until 2030](https://www.statista.com/statistics/1365145/artificial-intelligence-market-size/#:~:text=According%20to%20Next%20Move%20Strategy,a%20vast%20number%20of%20industries.)
+
+It's still hard to predict if more jobs will be created than lost. But it's important to be aware of the potential impact of AI on the economy and society.
+
+### ChatGPT Future Updates
+
+OpenAI the company behind this successful application is constantly improving their model. Their goal is to align AI with human interests. When ChatGPT was newly released, many people found ways to "jailbreak" it. This means they found ways to make it do things it was not designed to do. For example, malicious users were able to make it generate racist, sexist, and other offensive text. OpenAI has since improved the model to prevent this from happening and it will continue in the future. New features will be added to improve the user experience and make it more useful. It is suspected that image, video, audio, and other media will be added in the future.
+
+Here are the [Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) for ChatGPT.
+
+### Quiz 3 - Limitations, Ethics, Economy & Future Updates
+
+1. **Does ChatGPT provide the same answer to the same question?**
+
+- a) True.
+- b) False.
+
+2. **What is AI hallucination?**
+
+- a) A new type of technology.
+- b) When ChatGPT dreams.
+- c) When ChatGPT gives a wrong answer thinking it's right.
+- d) When ChatGPT refuses to answer.
+
+3. **Can ChatGPT handle mathematical problems?**
+
+- a) Yes, with exact calculations.
+- b) No, it can't do any math.
+- c) Yes, by using a language approach.
+- d) No, only algebra.
+
+4. **What should you be cautious about when using ChatGPT for sensitive information?**
+
+- a) It doesn't like personal questions.
+- b) It can use your information to train the model.
+- c) It will tell everyone your secrets.
+- d) It asks for a password.
+
+5. **What is the projected impact of AI on the global economy?**
+
+- a) It will cause a global recession.
+- b) It will decrease GDP by 14%.
+- c) It could contribute trillions and increase global GDP.
+- d) It will have no effect.
+
+6. **What is one of the future updates expected for ChatGPT?**
+
+- a) It will start charging for every word.
+- b) It will become a physical robot.
+- c) It will include more media types like images and videos.
+- d) It will be able to make phone calls.
+
+### Answers
+
+1. b
+2. c
+3. c
+4. b
+5. c
+6. c
+
+# 5. Conclusion
+
+ChatGPT is not a replacement for search engines like Google or Bing. It's quite different, because this, in a sense, it's fresh text. The text generated is likely new to the world. I encourage you to go ahead and test the limits of ChatGPT. It's a great way to explore what it's capable of.
 
 ### Tips
 
@@ -413,10 +484,6 @@ WIP
 
 ## Improve other people's lives
 
-# 5. Conclusion
-
-ChatGPT is not a replacement for search engines like Google or Bing. It's quite different, because this, in a sense, it's fresh text. The text generated is likely new to the world. I encourage you to go ahead and test the limits of ChatGPT. It's a great way to explore what it's capable of.
-
 # Call to Action
 
-ChatGPT is like having an augment in life. It's more than just a tool; it's an opportunity to grow, innovate, and connect in ways previously unimagined. From aiding in personal development to fostering community projects, the possibilities are boundless. This technology doesn't just follow commands; it engages with you, offering thoughtful responses, fresh perspectives, and endless inspiration.
+ChatGPT is like having an augment in life. It's more than just a tool; it's an opportunity to grow, innovate, and connect in ways previously unimagined. From aiding in personal development to fostering community projects, the possibilities are boundless. This technology doesn't just follow commands; it engages with you, offering thoughtful responses, fresh perspectives, and endless inspiration. It's a tool that can help you improve your life and the lives of others.
