@@ -8,15 +8,15 @@ The course is broken down into 5 sections. Each section has a short video and a 
 
 # Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#1-introduction)
    - What is ChatGPT, What does it do, Getting Started, User Interface.
-2. [How To Use ChatGPT](#how-to-use-chatgpt)
+2. [How To Use ChatGPT](#2-how-to-use-chatgpt)
    - Prompts, Context, Advance Prompting, Formats & Styles
-3. [Interactive Workshop](#interactive-workshop)
-   - Creative art, DIY, Journaling, Learning, Ideation
-4. [Limitations, Ethics, & Future Updates](#limitations-ethics--future-updates)
-   - Hallucinations, Privacy, Usage Policy, Bias & Discrimination, Jobs & Economy, ChatGPT Evolves
-5. [Conclusion & Call to Action](#conclusion--call-to-action)
+3. [Interactive Workshop](#3-interactive-workshop)
+   - Creative Art, Journaling, Learning, Ideation
+4. [Limitations, Ethics, & Future](#4-limitations-ethics--future-updates)
+   - Hallucinations, Privacy, Usage Policy, Bias & Discrimination, Economy, Future ChatGPT
+5. [Conclusion & Call to Action](#5-conclusion--call-to-action)
    - Tips, Resources, Improve your life & other people's lives
 
 ## Before We Begin
@@ -352,7 +352,31 @@ In conclusion, Few-shot prompting with ChatGPT is a potent tool, especially when
 
 # 3. Interactive Workshop
 
-WIP
+## Creative Art
+
+### Art Appreciation
+
+### Art Creation
+
+## Journaling
+
+### Free Writing
+
+### Gratitude Journal
+
+## Learning
+
+### Education
+
+### Interview
+
+## Ideation
+
+Unlike a human, ChatGPT doesn't get tired or
+
+### Brainstorming
+
+### Start a Business
 
 # 4. Limitations, Ethics, Economy & Future Updates
 
@@ -404,9 +428,9 @@ ChatGPT is not inherently biased, but the data it was trained on may contain bia
 
 It's still hard to predict if more jobs will be created than lost. But it's important to be aware of the potential impact of AI on the economy and society.
 
-### ChatGPT Future Updates
+### Future ChatGPT
 
-OpenAI the company behind this successful application is constantly improving their model. Their goal is to align AI with human interests. When ChatGPT was newly released, many people found ways to "jailbreak" it. This means they found ways to make it do things it was not designed to do. For example, malicious users were able to make it generate racist, sexist, and other offensive text. OpenAI has since improved the model to prevent this from happening and it will continue in the future. New features will be added to improve the user experience and make it more useful. It is suspected that image, video, audio, and other media will be added in the future.
+OpenAI the company behind this successful application is constantly coming out with improvements guide by safety and improved user experience. Their goal is to align AI with human interests. When ChatGPT was newly released, many people found ways to "jailbreak" it. This means they found ways to make it do things it was not designed to do. For example, malicious users were able to make it generate racist, sexist, and other offensive text. OpenAI has since improved the model to prevent this from happening and it will continue in the future. AI Safety is a growing concern worldwide, prompting governments and tech companies to speed up collaboration. GPT-5 is suspected to be released in 2024.
 
 Here are the [Release Notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) for ChatGPT.
 
@@ -445,13 +469,6 @@ Here are the [Release Notes](https://help.openai.com/en/articles/6825453-chatgpt
 - c) It could contribute trillions and increase global GDP.
 - d) It will have no effect.
 
-6. **What is one of the future updates expected for ChatGPT?**
-
-- a) It will start charging for every word.
-- b) It will become a physical robot.
-- c) It will include more media types like images and videos.
-- d) It will be able to make phone calls.
-
 ### Answers
 
 1. b
@@ -459,9 +476,8 @@ Here are the [Release Notes](https://help.openai.com/en/articles/6825453-chatgpt
 3. c
 4. b
 5. c
-6. c
 
-# 5. Conclusion
+# 5. Conclusion & Call to Action
 
 ChatGPT is not a replacement for search engines like Google or Bing. It's quite different, because this, in a sense, it's fresh text. The text generated is likely new to the world. I encourage you to go ahead and test the limits of ChatGPT. It's a great way to explore what it's capable of.
 
