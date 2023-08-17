@@ -426,7 +426,7 @@ Here is an even better idea, let's ask for a playlist of similar songs to includ
 
 We now have a great playlist that we can play and adjust to our liking. While there are other ways to find music, ChatGPT can serve as a great tool to find and learn about music.
 
-I encourage you to open a new conversation and find a music style that you like and explore it with ChatGPT. You might find some new music that you like!
+I encourage you to open a new conversation and find a music style that you like and explore it with ChatGPT. I've used ChatGPT for interpreting lyrics, finding new music, creating playlist, and learning about music.
 
 ### Art Creation
 
