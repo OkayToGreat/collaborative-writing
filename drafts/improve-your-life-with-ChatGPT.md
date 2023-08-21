@@ -510,7 +510,7 @@ Did any of these resonate with you? Since, we are on a Journaling section, let's
 
 `Can you give me examples of gratitude journal entries?`
 
-![Gratitude journal entry examples](../assets/improve-your-life-with-ChatGPT/ratitude-journal-entry-examples.png)
+![Gratitude journal entry examples](../assets/improve-your-life-with-ChatGPT/gratitude-journal-entry-examples.png)
 
 These entries can serve as inspiration for your own gratitude journaling practice.
 
