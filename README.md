@@ -1,6 +1,6 @@
 # Collaborative Writing With Friends
 
-![Collaborative Writing Banner](assets/collaborative-writing.png)
+![Collaborative Writing Banner](assets/shared/collaborative-writing.png)
 
 This repository serves as our collaborative space for drafting, reviewing, and publishing articles.
 
