@@ -254,9 +254,88 @@ Here are some formats or styles you can use to get different types of responses 
 
 Could you think of other formats or styles?
 
-Remember, ChatGPT is tailored to be a user-friendly assistant, but sometimes, you might want to guide it a bit so it understands you better. That's where "One-Shot" and "Few-Shot Learning" come in. Let's simplify these terms.
+### Custom Instructions
+
+ChatGPT’s custom instructions feature allows you to add preferences or requirements that you would like ChatGPT to consider when generating its responses.
+
+![Two concentric circles. The larger outer circle represents all possible ChatGPT responses, while the inner smaller circle highlights the focused responses achieved using Custom Instructions.](../assets/improve-your-life-with-ChatGPT/chatgpt-response-range.png)
+
+Imagine ChatGPT as a Big Circle: This large circle contains all the countless ways ChatGPT can respond to a prompt.
+
+Now, Picture a Smaller Circle Inside: By using Custom Instructions, ChatGPT narrows down its responses to a smaller circle that better suits your needs.
+
+#### Activating Custom Instructions
+
+You can find the feature by clicking on the three dots on the bottom left of the interface and selecting "Custom Instructions".
+
+![Where to find Custom Instructions on ChatGPT UI](../assets/improve-your-life-with-ChatGPT/chatgpt-custom-instruction-setting.png)
+
+When opening the feature, you will find two questions, and each response has a 1500 character limit.
+
+Let's talk about how to make the most of this feature.
+
+- #### Question 1️⃣: What would you like ChatGPT to know about you to provide better responses?
+
+  - The first question is about your personal information, preferences, or goals. You can tell ChatGPT anything that you think is relevant or helpful for it to understand you better.
+  - For example, you can write `I am a woman who lives in California. I work as a nurse at a local hospital. I enjoy reading, traveling, and cooking. I am interested in learning new things, especially about different cultures, animals and languages. I just got a puppy named Cleo.  My goal is to buy a house in the next 5 years.`
+
+- #### Question 2️⃣: How would you like ChatGPT to respond?
+  - You can tell ChatGPT how you want it to communicate with you.
+  - For example, you can write `Use simple language and avoid technical jargon or acronyms. I would some suggestions or recommendations when I ask for them, such as books, movies, places, recipes, etc. I would also like a sense of humor and make me laugh sometimes.`
+
+Here are some categories of information you can include in your custom instructions:
+
+![List of input types for Custom Instructions in ChatGPT, including language proficiency, background, demographics, and more.](../assets/improve-your-life-with-ChatGPT/chatgpt-custom-instruction-input-types.png)
+
+#### Tips on Custom Instructions
+
+- You can edit or delete custom instructions at any time for future conversations.
+- Once you add your custom instructions, you can start a new conversation and ChatGPT will use your custom instructions to generate responses.
+- Old conversations will not be affected by your custom instructions. They only work when enabled and a new conversation is started.
+- Save your custom instructions in a document app for different purposes such as work, school, personal, etc.
+
+#### Template for Custom Instructions
+
+What would you like ChatGPT to know about you to provide better responses?
+
+```
+profession/role
+current projects/challenges
+specific interests
+values and principles
+learning style
+personal background
+goals
+preferences
+language proficiency
+specialized knowledge
+educational background
+communication style
+```
+
+How would you like ChatGPT to respond?
+
+```
+response format
+detail level
+types of suggestions
+types of questions
+checks and balances
+resource references
+critical thinking level
+creative thinking level
+problem solving approach
+bias awareness
+language preferences
+```
+
+#### Custom Instructions Conclusion
+
+Custom Instructions for ChatGPT is a powerful tool that puts you in the driver's seat. By guiding the model's responses to suit your preferences and needs, you can transform your interactions with ChatGPT into tailored, meaningful exchanges. Whether it's for work, learning, or personal exploration, taking a few moments to set up your custom instructions can enhance the value and relevance of the conversations you have. Go ahead, personalize your experience!
 
 ### One-Shot and Few-Shot Learning
+
+Remember, ChatGPT is tailored to be a user-friendly assistant, but sometimes, you might want to guide it a bit so it understands you better. That's where "One-Shot" and "Few-Shot Learning" come in. Let's simplify these terms.
 
 One-shot or Few-shot learning is a technique wherein you provide one or more examples (or "shots") in your prompt to guide ChatGPT's responses. By showing ChatGPT example inputs and outputs for a particular task, you are essentially teaching it how to perform that task in a specific format or structure. The idea is to leverage these examples to steer the AI towards more tailored outputs.
 
